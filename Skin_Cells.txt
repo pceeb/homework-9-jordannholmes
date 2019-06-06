@@ -14,7 +14,6 @@ The ReadMe
 6- Yes, this is listed under the Vignette section. 
 7- Yes, the motivation (Aaron van Loon) and RStudio package decriptions (cran.r-package) are cited.
 
-
 The Scripts
 8- Yes, there is a directory that contains all of the program scripts. It is called "Scripts."
 9- NA - Taken out of rubric requirements.
@@ -23,7 +22,7 @@ The Vignette
 10- Yes, there is a directory called Vignette. It does include a test set, commands list, and the expected output (which in this case is a graph and table).
 11- Since there were three procedural parts to this project, each was run separately. I was unable to run the concatenation script in shell because I could not determine the small data set to run. The bash script specified "Files_to_analyze" and "Concatenated_to_analyze.csv" but I could not determine if this corresponded to the "Points5.csv" or "Ridge5_test.csv" files in the Vignette. I would suggest more detailed instructions in running this script.
     The Curvature_Math.rmd ran smoothly in R and I was able to easily reproduct Hannah's results.
-    I had difficulty running the Point_Simplifier.rmd due to the PairViz package. It required the installation of "graph" but I could not successfully load this package to complete the R commands and elicit and output.
+    I had difficulty running the Point_Simplifier.rmd due to the PairViz package. It required the installation of "graph" but I could not successfully load this package to complete the R commands and elicit an output.
 12- Overall, I only was able to reproduce the expected output for the Curvature_Math.rmd portion of the project. I was unable to produce results at all for the other two portions of the project.
 
 General
